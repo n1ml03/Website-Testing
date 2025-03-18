@@ -34,7 +34,6 @@ Dự án này tập trung vào các khía cạnh kiểm thử sau:
         *   **Giỏ hàng:** Thêm sản phẩm, sửa số lượng, xóa sản phẩm, áp dụng mã giảm giá, v.v.
         *   **Thanh toán:** Chọn phương thức thanh toán, nhập thông tin giao hàng, xác nhận đơn hàng, v.v.
         *   **Quản lý tài khoản:** Cập nhật thông tin cá nhân, xem lịch sử mua hàng, v.v.
-        *   **Các chức năng khác (nếu có):** Ví dụ: đánh giá sản phẩm, bình luận, liên hệ, v.v.
         * Test case được thiết kế theo các kỹ thuật như: equivalence partitioning, boundary value analysis,...
 
 3.  **Thực hiện kiểm thử:**
