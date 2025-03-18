@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Dự án này tập trung vào việc kiểm thử chất lượng (Quality Assurance - QA) cho website thương mại điện tử của . Mục tiêu chính là đảm bảo website hoạt động ổn định, đáp ứng đúng yêu cầu nghiệp vụ, có giao diện thân thiện với người dùng và không có lỗi nghiêm trọng.
+Dự án này tập trung vào việc kiểm thử chất lượng (Quality Assurance - QA) cho website thương mại điện tử. Mục tiêu chính là đảm bảo website hoạt động ổn định, đáp ứng đúng yêu cầu nghiệp vụ, có giao diện thân thiện với người dùng và không có lỗi nghiêm trọng.
 
 ## Mục tiêu
 
@@ -38,7 +38,7 @@ Dự án này tập trung vào các khía cạnh kiểm thử sau:
         * Test case được thiết kế theo các kỹ thuật như: equivalence partitioning, boundary value analysis,...
 
 3.  **Thực hiện kiểm thử:**
-    *   Thực hiện kiểm thử thủ công trên các trình duyệt (Chrome, Firefox, Edge, Safari) và thiết bị (desktop, mobile, tablet).
+    *   Thực hiện kiểm thử thủ công trên các trình duyệt (Chrome, Firefox, Edge, Safari).
     *   Ghi nhận kết quả test (pass/fail), chụp ảnh màn hình lỗi, mô tả chi tiết các bước tái hiện lỗi.
 
 4.  **Báo cáo và theo dõi lỗi:**
@@ -49,7 +49,6 @@ Dự án này tập trung vào các khía cạnh kiểm thử sau:
         *   Môi trường kiểm thử (trình duyệt, hệ điều hành, thiết bị).
         *   Ảnh chụp màn hình/video minh họa.
     * Sử dụng Zephyr để quản lý test case, thực thi test run và theo dõi tiến độ.
-    *   Theo dõi quá trình fix bug của đội phát triển, kiểm thử lại (re-test) và xác nhận lỗi đã được sửa.
 
 ## Công cụ
 
